@@ -90,7 +90,7 @@ const Header = () => {
       }
     >
       <div className="max-w-screen-2xl w-full mx-auto px-4 md:px-6 py-2 sm:py-1 flex justify-between items-center relative z-20">
-        <div className="w-28 sm:w-40 z-50 py-1">
+        <div className="w-33  sm:w-44 h-33 z-50 py-1">
           <img
             onClick={goHome}
             className="w-full cursor-pointer"
