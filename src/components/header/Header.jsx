@@ -93,7 +93,7 @@ const Header = () => {
         <div className="w-33  sm:w-44  z-50 py-1">
           <img
             onClick={goHome}
-            className="w-full cursor-pointer h-[110px]"
+            className="w-full cursor-pointer h-[75px]"
             src={logo}
             alt="logo"
           />
